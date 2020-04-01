@@ -9,9 +9,9 @@ int main()
 	{
 	again:
 		cout << endl;
-		cout << "Show data – press 1" << endl;
+		cout << "Show data â€“ press 1" << endl;
 		cout << "Write data - press 2" << endl;
-		cout << "Exit – press 3" << endl;
+		cout << "Exit â€“ press 3" << endl;
 		cout << endl;
 		int choice;
 		cin >> choice;
